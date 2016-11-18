@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoftUni Blog</title>
+    <link rel="stylesheet" href="styles/style.css" type="text/css" />
+    <script src="scripts/jquery-1.10.2.js"></script>
+    <script src="scripts/bootstrap.js"></script>
+</head>
+<body>
+<header>
+    <div class="navbar navbar-default navbar-fixed-top text-uppercase">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand">SoftUni Blog</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="register.html">Register</a>
+                    </li>
+                    <li>
+                        <a href="login.html">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="container body-content">
+        <div class="row">
+            <div class="col-md-12">
+                <article>
+                    <header>
+                        <h2>OSI model</h2>
+                    </header>
+                    <p>
+                        The Open Systems Interconnection model (OSI model) is a conceptual model that characterizes
+                        and standardizes the communication functions of a telecommunication or computing system
+                        without regard to their underlying internal structure and technology. Its goal is the
+                        interoperability of diverse communication systems with standard protocols. The model
+                        partitions a communication system into abstraction layers. The original version of the model
+                        defined seven layers.
+                        A layer serves the layer above it and is served by the layer below it. For example, a layer
+                        that provides error-free communications across a network provides the path needed by
+                        applications above it, while it calls the next lower layer to send and receive packets that
+                        comprise the contents of that path. Two instances at the same layer are visualized as
+                        connected by a horizontal connection in that layer.
+                    </p>
+                    <small class="author">
+                        Lorem ipsum 28/10/2016
+                    </small>
+                    <footer>
+                        <div class="pull-right">
+                            <a href="index.html" class="btn btn-default btn-xs">Back &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        </div>
+    </div>
+</main>
+<footer>
+    <div class="container modal-footer">
+        <p>&copy; 2016 - Software University Foundation</p>
+    </div>
+</footer>
+</body>
+</html>
