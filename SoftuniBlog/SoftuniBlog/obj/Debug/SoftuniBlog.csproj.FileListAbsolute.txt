@@ -1,0 +1,164 @@
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\ApplicationInsights.config
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\csc.exe
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\vbc.exe
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.dll.config
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.pdb
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Antlr3.Runtime.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\EntityFramework.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Web.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Newtonsoft.Json.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Owin.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Helpers.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Mvc.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Optimization.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Razor.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\WebGrease.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Web.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Helpers.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Mvc.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Optimization.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.Razor.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Antlr3.Runtime.pdb
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Newtonsoft.Json.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\EntityFramework.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.csprojResolveAssemblyReference.cache
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.dll
+C:\Users\mimi\Desktop\software technologies\06.Lection C#\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.pdb
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\ApplicationInsights.config
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\csc.exe
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\vbc.exe
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.dll.config
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\SoftuniBlog.pdb
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Antlr3.Runtime.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\EntityFramework.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Newtonsoft.Json.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Owin.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Helpers.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Mvc.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Optimization.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Razor.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\WebGrease.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Helpers.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Mvc.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Optimization.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.Razor.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Newtonsoft.Json.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\EntityFramework.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.dll
+C:\Users\Elena\Downloads\SoftuniBlog\SoftuniBlog\obj\Debug\SoftuniBlog.pdb
